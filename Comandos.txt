@@ -1,2 +1,6 @@
 git config --global user.name "Mi Nombre de Usuario"
 git config --global user.email "mi.direccion.de.email@ejemplo.com"
+git init (inicializar)
+git status (ver estado)
+git add <nombre archivo>, git add .(suban todo lo nuevo)
+git commit (i insertar texto, ESC salir, :wq es para tomar un SNAPSHOT (foto))
